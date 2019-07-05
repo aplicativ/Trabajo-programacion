@@ -1,0 +1,9 @@
+
+public void imprimirDato{
+
+System.out.println(get nombre);
+System.out.println(get apellido);
+System.out.println(get nota);
+
+
+ }

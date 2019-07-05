@@ -1,0 +1,22 @@
+
+   public class Aplicativo{
+    
+public static void main(String[] args){
+
+String r,n;
+int e;
+
+Scanner lee=new Scanner(System.String);
+System.out.println(ingrese raza);
+ r=lee.next();
+System.out.println(ingrese nombre);
+ n=lee.next();
+
+System.out.println(ingrese edad);
+ e=lee.next();
+Animal obj=newAnimal(r,n,e);
+obj=imprimir Datos;
+}
+}
+
+ 

@@ -1,0 +1,13 @@
+
+
+
+public class Personal{
+
+public void imprimir{
+
+System.out.println(get (raza));
+System.out.println(get (nombre));
+System.out.println(get (edad));
+
+}
+}

@@ -1,0 +1,19 @@
+ public class Nota{
+   
+  public static void main (String[] args){
+  String n,a;
+  float nota;
+scanner lee=new Scanner(System String);
+
+System.out.println(ingreses nombre);
+ n=lee.next();
+
+System.out.println(ingreses apellido);
+ a=lee.next();
+
+System.out.println(ingreses nota);
+ nota=lee.nextfloat(); 
+
+Nota obj =new Nota(n,a,nota);
+  obj.imprimirDato();
+}

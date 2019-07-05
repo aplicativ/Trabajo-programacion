@@ -1,0 +1,30 @@
+public class Estudiante{
+private String nombre;
+private string apellido;
+private float nota;
+public Estudiante(String nombre,String apellido,float nota){
+ this.nota=nota;
+ this.nombre=nombre; 
+ this.apellido=apellido;
+ this.nota=nota;
+}
+public void setNombre(String nombre(){
+ nombre= nombre;
+}
+public void setNombre(String apellido(){
+ apellido=apellido;
+}
+public void setNombre(float nota(){
+ nota=nota;
+}
+ public String getnombre(){
+return nombre;
+}
+public String getapellido(){
+return apellido;
+}
+public String getnota(){
+return nota;
+}
+}
+
